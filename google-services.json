@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "448939303966",
+    "firebase_url": "https://firealert-f4e44-default-rtdb.firebaseio.com",
+    "project_id": "firealert-f4e44",
+    "storage_bucket": "firealert-f4e44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448939303966:android:8ceeb79d086b2798e8ba0f",
+        "android_client_info": {
+          "package_name": "com.fire.alert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448939303966-uounbucist9qm7bg0beovsuu29jp3f5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEo2OfJVn4NzfP5D8kCM_Tvwl_ZAyPeMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448939303966-uounbucist9qm7bg0beovsuu29jp3f5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
